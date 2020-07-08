@@ -1,0 +1,57 @@
+.vertical-menu{
+	width:100%; /*set a width if you like*/
+}
+.vertical-menu a{
+	background-color:#eee;
+	color: black;
+	display: block; /*make the links appear below each other*/
+	padding: 5px; /*add some padding*/
+	text-decoration: none; /*remove under line from lin*/ks
+}
+.vertical-menu a:hover{
+	background-color:#ccc;
+}
+.vertical-menu a.active{
+	background-color:#4CAF50;
+	color: white;
+}
+.list-group a.active{
+background-color:#4CAF50;
+color: white;
+}
+.list-group a{
+	background-color:#eee;
+	color: black;
+	display: block; /*make the links appear below each other*/
+	padding: 5px; /*add some padding*/
+	text-decoration: none; /*remove under line from lin*/ks
+}
+.list-group a:hover{
+	background-color:#ccc;
+}
+.list-group a.active{
+	background-color:#4CAF50;
+	color: white;
+}
+p.title-product {
+	text-align: center;
+	color: skyblue;
+
+}
+p.price{
+	text-align: center;
+	padding-top:-20px; 
+}
+.btn-primary{
+	display: block;
+    margin: 0 auto;
+}
+.col-md-3 .nav-pill{
+	list-style: none;
+}
+.col-md-3 .nav-pill a{
+	text-decoration: none;
+}
+.footer{
+	background-color:#474242;
+}

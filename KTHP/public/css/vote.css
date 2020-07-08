@@ -1,0 +1,23 @@
+.tt {
+	font-size: 20px;
+	font-weight: bold;
+	color: red;
+	margin-right: 25px;
+	padding-right: 80px;
+	padding-top: 20px;
+}
+
+.duy{
+	color: yellow;
+}
+
+.icon-star{
+	outline: none;
+	padding-left: 5px;
+	font-size: 35px;
+}
+.form-group #test{
+	padding-top: 15px;
+	color: red;
+	text-align: center;
+}
